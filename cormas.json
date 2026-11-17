@@ -1,0 +1,5 @@
+{
+	"baseline" : "WolfSheepPredationWithShepherds",
+	"summary" : "Wolves, sheep, grass and shepherds: version 2 of the predator-prey model of Wilensky and Reisman (2006), with shepherds who keep their flocks in pastures and guard them from wolves.",
+	"cormas" : "1.0-dev"
+}
